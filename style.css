@@ -7,7 +7,7 @@
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: url(orangebeach.png);
+    background-image: url(img/orangebeach.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -73,10 +73,10 @@ nav img {
 
 /*----------------home page--------------*/
 
-.sub-header1{
+.sub-header1 {
     height: 50vh;
     width: 100%;
-    background-image: url("zhomepagerotorua.png");
+    background-image: url("img/zhomepagerotorua.png");
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -85,17 +85,17 @@ nav img {
 
 /*----------------attractions page--------------*/
 
-.sub-header2{
+.sub-header2 {
     height: 50vh;
     width: 100%;
-    background-image: url("zattractionspagerotorua.png");
+    background-image: url("img/zattractionspagerotorua.png");
     background-position: center;
     background-size: cover;
     text-align: center;
     color: #fff;
 }
 
-h1{
+h1 {
     font-size: 50px;
     text-align: center;
     font-weight: 600;
@@ -103,37 +103,37 @@ h1{
 
 /*----------------adventure & relaxation & wildlife part--------------*/
 
-.attractionsrow{
+.attractionsrow {
     margin-top: 5%;
     display: flex;
     justify-content: space-between;
 }
 
-.attractions{
+.attractions {
     width: 80%;
     margin: auto;
     text-align: center;
     padding-top: 100px;
 }
 
-.attractions-col{
+.attractions-col {
     flex-basis: 31%;
     border-radius: 10px;
     margin-bottom: 5%;
     text-align: left;
 }
 
-.attractions-col img{
+.attractions-col img {
     width: 100%;
     border-radius: 10px;
 }
 
-h2{
+h2 {
     font-size: 36px;
     font-weight: 600;
 }
 
-p{
+p {
     color: #000000;
     font-size: 14px;
     font-weight: 300;
@@ -141,7 +141,7 @@ p{
     padding: 10px;
 }
 
-h3{
+h3 {
     text-align: center;
     font-weight: 600;
     margin: 10px 0;
@@ -150,10 +150,10 @@ h3{
 
 /*----------------fooddrink page--------------*/
 
-.sub-header3{
+.sub-header3 {
     height: 50vh;
     width: 100%;
-    background-image: url("zfoodpagerotorua.png");
+    background-image: url("img/zfoodpagerotorua.png");
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -162,31 +162,29 @@ h3{
 
 /*----------------restaurants & cafe part--------------*/
 
-.restaurantrow{
+.restaurantrow {
     margin-top: 5%;
     display: flex;
     justify-content: space-between;
 }
 
-.restaurant{
+.restaurant {
     width: 80%;
     margin: auto;
     text-align: center;
     padding-top: 100px;
 }
 
-.restaurant-col{
+.restaurant-col {
     flex-basis: 31%;
     border-radius: 10px;
     margin-bottom: 5%;
     text-align: left;
 }
 
-.restaurant-col img{
+.restaurant-col img {
     width: 100%;
     border-radius: 10px;
 }
 
 /*----------------visa requirements part--------------*/
-
-
